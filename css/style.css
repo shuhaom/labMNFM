@@ -56,8 +56,9 @@ body {
 }
 
 #headerwrap h1 {
-	font-weight: 100;
-	font-size: 70px;
+  color: #222;
+  font-size: 55px;
+  font-weight: 550;
 }
 
 #headerwrap h2 {
